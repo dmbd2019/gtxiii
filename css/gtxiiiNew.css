@@ -22,10 +22,10 @@ svg{
   height: 10px;
 }
 
-text{
-  fill: black;
-  stroke: white;
-  stroke-width:2px;
-  // stroke-dasharray: 2,2;
-  stroke-linejoin: round;
+div {
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-right: 300px;
+  margin-left: 160px;
+  background-color: white;
 }
